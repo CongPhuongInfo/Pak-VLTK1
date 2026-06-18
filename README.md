@@ -1,2 +1,2 @@
 # Pak-VLTK1
-Nén và giaỉ nén tệp tin Pak trong Game Võ Lâm Truyền Kỳ
+Nén và giaỉ nén tệp tin Pak trong Game Võ Lâm Truyền Kỳ 1, Võ Lầm Truyền Kỳ 2 , Kiếm Thế, Phong Thần, ....
